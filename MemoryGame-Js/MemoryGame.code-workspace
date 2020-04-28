@@ -1,0 +1,13 @@
+{
+    "folders": [
+		{
+			"path": "../CursoJavascript"
+		},
+		{
+			"path": "."
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "MemoryGame-Js"
+    }
+}
